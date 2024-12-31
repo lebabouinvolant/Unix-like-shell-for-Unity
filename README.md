@@ -24,8 +24,9 @@ A simple package to integrate a fake Unix shell into your Unity projects.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/blukatdevelopment/FakeShell.git
+   git clone https://github.com/lebabouinvolant/Unix-like-terminal-for-Unity-games.git
    ```
+   OR just download the package
 2. Import the package into Unity.
 
 ## Usage
