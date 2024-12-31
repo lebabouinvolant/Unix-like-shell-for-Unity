@@ -50,7 +50,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Credits
 
-- **3D Model:** [Military Laptop 2](https://sketchfab.com/3d-models/military-laptop-2-4cf7d92c8c06426287aa3694c70efb2c) by Sketchfab user.
+- **3D Model:** [Military Laptop 2](https://sketchfab.com/3d-models/military-laptop-2-4cf7d92c8c06426287aa3694c70efb2c) by Nortenko Dmytro.
 - **Unix Shell Emulation Script:** [FakeShell](https://github.com/blukatdevelopment/FakeShell) by blukatdevelopment.
 - **Fake Terminal Asset:** [Procedural Imagination](https://assetstore.unity.com/packages/tools/gui/fake-terminal-an-in-game-ms-dos-style-pc-171333) from Unity Asset Store.
 
