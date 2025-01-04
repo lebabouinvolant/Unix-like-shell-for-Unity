@@ -27,7 +27,7 @@ public class FakeShell {
   public List<string> stdout, stdin, MyOutput; //Manual pipelining variable, hell yeah
   public bool IsTheSameInput;
   //public string output; 
-  public int outputMode; // 1 = console, 2 = pipe
+  public int outputMode; // 1 = console, 2 = pipe (I (lebabouinvolant) didn't understand what to do with that so I made my own pipelining system)
 
   public FakeShell(
     string lastLogin,
